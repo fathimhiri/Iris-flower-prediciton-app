@@ -2,3 +2,4 @@ streamlit
 sklearn
 scikit-learn
 pandas
+click==8
